@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+.day{
+  background-color: yellow;
+}
+
+.night{
+  background-color: lightgrey;
+}
+.header-seaction{
+  height: 300px;
+}
+.mt{
+  margin-top: 20px;
+}
